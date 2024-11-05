@@ -1,3 +1,7 @@
+//falta colocar instrucciones
+//falta color sonido
+
+
 let imagenes = [];
 let juego; 
 let interacciones; 
